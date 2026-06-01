@@ -20,13 +20,6 @@ Real-time weather application with city search, favorites list, and 5-day foreca
 - CSS3
 - OpenWeatherMap API
 
-## Getting Started
-
-```bash
-npm install
-npm start
-```
-
 ## Contact
 - Email: shivambacheli@gmail.com
 - Portfolio: https://learning-react-nine-lovat.vercel.app
