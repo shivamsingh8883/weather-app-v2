@@ -2,7 +2,7 @@
 
 Real-time weather application with city search, favorites list, and 5-day forecast.
 
-**Weather-App:** [https://learning-react-5ead.vercel.app](https://learning-react-5ead.vercel.app)
+**Weather-App:** [https://weather-app-v2-sable.vercel.app](https://weather-app-v2-sable.vercel.app)
 
 ## Features
 - Search cities and view current weather
@@ -22,4 +22,4 @@ Real-time weather application with city search, favorites list, and 5-day foreca
 
 ## Contact
 - Email: shivambacheli@gmail.com
-- Portfolio: https://learning-react-nine-lovat.vercel.app
+- Portfolio: https://portfolio-shivam-singh.vercel.app
